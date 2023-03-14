@@ -1,4 +1,7 @@
-### Hi there 👋🐱‍👤🐢
+<h1 align="center">Hi, I'm Kai 👋</h1>
+<h3 align="center">Currently learning how to be a front end dev 😎💻</h3>
+
+🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥🐢💥
 
 <!--
 **KaiWelu/KaiWelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
