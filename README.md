@@ -1,5 +1,6 @@
-<h2 align="center">Hi, I'm Kai 👋</h1>
-<h4 align="center">Currently learning how to be a front end developer 😎💻</h3>
+<h3 align="start">Latest Project</h3>
+<h3 align="start">Current Project</h3>
+<h4 align="center">Just finished  😎💻</h3>
 
 <!--
 **KaiWelu/KaiWelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
