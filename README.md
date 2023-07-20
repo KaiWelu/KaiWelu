@@ -1,8 +1,9 @@
 <h3 align="start">Last Project</h3>
-<p>Just finished the web development course at Coding Bootcamps Europe learning everything about HTML, CSS, Javascript and VUE.js. Check out our final project https://cbe-games.netlify.app/ . You can login with your github account and set a new highscore 👾</p>
+<p>Just finished the web development course at Coding Bootcamps Europe learning everything about HTML, CSS, Javascript and Vue.js. Check out our final project https://cbe-games.netlify.app/ . You can login with your github account and set a new highscore 👾</p>
 <p></p>
  
-<h4 align="start">Current Project</h4>
+<h3 align="start">Current Project</h3>
+<p>Currently working on a freelance project for the sanders science lab and learning more about the react and node.js 💻</p>
 
 
 <!--
