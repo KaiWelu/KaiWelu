@@ -5,6 +5,7 @@
 <h3 align="start">Current Project</h3>
 <p>Currently working on a freelance project for the sanders science lab and learning more about the react and node.js 💻</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiWelu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KaiWelu/KaiWelu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
