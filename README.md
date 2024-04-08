@@ -1,9 +1,9 @@
-<h3 align="start">Last Project</h3>
-<p>Just finished the web development course at Coding Bootcamps Europe learning everything about HTML, CSS, Javascript and Vue.js. Check out our final project https://cbe-games.netlify.app/ . You can login with your github account and set a new highscore 👾</p>
-<p></p>
- 
-<h3 align="start">Current Project</h3>
-<p>Currently working on a freelance project for the sanders science lab and learning more about the react and node.js 💻</p>
+<p>
+ Hey there! I'm Kai, a frontend developer with a passion for crafting stunning user interfaces using React, TypeScript, and Tailwind CSS.
+</p>
+<p> I'm all about building scalable and maintainable applications, leveraging the power of React Query for efficient data fetching and management. With a keen eye for design and a knack for problem-solving, I thrive on turning complex ideas into simple, elegant solutions. Whether it's optimizing performance, implementing responsive designs, or collaborating with teams to deliver impactful projects, I'm dedicated to creating seamless user experiences that leave a lasting impression. </p>
+<p>Let's connect and build something amazing together! 🚀</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiWelu)](https://github.com/anuraghazra/github-readme-stats)
 
